@@ -9,4 +9,4 @@ The courses are as follows:
 2. Java Programming: Solving Problems with Software (done)
 3. Java Programming: Arrays, Lists, and Structured Data (done)
 4. Java Programming: Principles of Software Design (done)
-5. Java Programming: A DIY Version of Netflix and Amazon Recommendation Engines (in progress)
+5. Java Programming: A DIY Version of Netflix and Amazon Recommendation Engines (done)
